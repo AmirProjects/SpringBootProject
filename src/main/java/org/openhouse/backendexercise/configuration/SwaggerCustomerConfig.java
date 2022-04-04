@@ -1,4 +1,4 @@
-package com.ENSF607.AnimalProject.configuration;
+package org.openhouse.backendexercise.configuration;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Bean;
